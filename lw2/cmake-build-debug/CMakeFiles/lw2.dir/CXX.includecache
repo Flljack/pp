@@ -6,10 +6,6 @@
 
 #IncludeRegexTransform: 
 
-Q:/cpp/pp/lw2/Blur.cpp
-Blur.h
-Q:/cpp/pp/lw2/Blur.h
-
 Q:/cpp/pp/lw2/Blur.h
 bitmap_image.hpp
 Q:/cpp/pp/lw2/bitmap_image.hpp
@@ -43,4 +39,12 @@ string
 -
 vector
 -
+
+Q:/cpp/pp/lw2/main.cpp
+ctime
+-
+iostream
+-
+Blur.h
+Q:/cpp/pp/lw2/Blur.h
 
