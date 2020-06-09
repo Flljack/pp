@@ -1,0 +1,3 @@
+Q:/cpp/pp/lw2/cmake-build-debug/CMakeFiles/lw2.dir
+Q:/cpp/pp/lw2/cmake-build-debug/CMakeFiles/edit_cache.dir
+Q:/cpp/pp/lw2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

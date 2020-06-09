@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+Q:/cpp/pp/lw2/Blur.cpp
+Blur.h
+Q:/cpp/pp/lw2/Blur.h
+
+Q:/cpp/pp/lw2/Blur.h
+bitmap_image.hpp
+Q:/cpp/pp/lw2/bitmap_image.hpp
+string
+-
+Windows.h
+-
+algorithm
+-
+vector
+-
+
+Q:/cpp/pp/lw2/bitmap_image.hpp
+algorithm
+-
+cmath
+-
+cstdlib
+-
+cstring
+-
+fstream
+-
+iostream
+-
+iterator
+-
+limits
+-
+string
+-
+vector
+-
+
